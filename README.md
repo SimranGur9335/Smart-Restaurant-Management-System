@@ -127,13 +127,22 @@ src/
 ## Application Screens
 
 * Dashboard
-* Customer Management
-* Menu Management
-* Order Management
-* Billing & Payments
-* Sales Analytics
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/b8e49a93-6eb8-40f0-8b6b-334499a02038" />
 
-(Add screenshots here after project completion)
+* Customer Management
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/de9e5419-ac45-4c34-a595-4b8da826bf63" />
+
+* Menu Management
+<img width="1536" height="815" alt="image" src="https://github.com/user-attachments/assets/dda47464-8003-45ad-9fc9-a15547e9ed77" />
+
+* Order Management
+<img width="1536" height="815" alt="image" src="https://github.com/user-attachments/assets/4887d260-d10c-440c-badf-e38b3141c801" />
+
+* Billing & Payments
+<img width="1536" height="817" alt="image" src="https://github.com/user-attachments/assets/ec5b7eb1-b795-44d3-9927-e9d2e6be92a3" />
+
+* Sales Analytics
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/730a0089-3c51-4ad0-9a27-ce3fb55e3d1a" />
 
 ---
 
