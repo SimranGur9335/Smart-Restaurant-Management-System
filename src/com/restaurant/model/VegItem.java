@@ -11,6 +11,10 @@ public class VegItem extends FoodItem {
         super(itemId, itemName, price);
     }
 
+    public VegItem(int itemId, String itemName, double price, String description, String category, boolean available, String imagePath) {
+        super(itemId, itemName, price, description, category, available, imagePath);
+    }
+
     /**
      * Overrides the displayItem method from FoodItem.
      * Demonstrates Polymorphism (Method Overriding).
@@ -21,3 +25,4 @@ public class VegItem extends FoodItem {
             getItemId(), getItemName(), getPrice());
     }
 }
+

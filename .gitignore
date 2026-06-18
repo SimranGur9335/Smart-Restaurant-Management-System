@@ -1,0 +1,8 @@
+/bin/
+*.class
+*.log
+local_storage.json
+/data/
+/invoices/
+/reports/
+/Smart-Restaurant-Management-System/
